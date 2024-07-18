@@ -10,6 +10,6 @@ public class Main {
         memberRepository.create("용혁",19,"lpsac@naver.com");
         memberRepository.create("애런",29,"lpsac@naver.com");
 //        memberRepository.read(2);
-//        memberRepository.니가_가진_멤버_다_보여줘();
+        memberRepository.니가_가진_멤버_다_보여줘();
     }
 }
