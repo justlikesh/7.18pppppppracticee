@@ -1,7 +1,6 @@
 public class login {
     private Integer id;
     private String name;
-    private Integer Num;
-    private String email;
-    private String ss;
+    private Boolean sdifj;
+    private long idff;
 }
