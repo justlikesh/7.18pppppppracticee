@@ -3,5 +3,5 @@ public class login {
     private String name;
     private Integer Num;
     private String email;
-    private String ss;
+    private String sssss;
 }
