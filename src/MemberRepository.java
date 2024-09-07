@@ -23,8 +23,6 @@ public class MemberRepository implements Repository {
 
         System.out.println("객체 생성 종료");
         System.out.println("      ");
-        System.out.println("      ");
-        System.out.println("      ");
     }
 
     @Override
